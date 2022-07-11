@@ -2,34 +2,11 @@
 
 成长为一位独立思考、终身成长并为社会创造价值的精英。
 
-### Markdown
+## 2022.7.11
+Ⅰ想来学RL要记录一下，但是某些社区学术风终究是有些不纯正，看到别人的学习笔记，于是萌生了在Git上建立一个RL的仓库，在里面放代码和markdown的想法💡
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ⅱ明天开始跟着DataWhale社区的小伙伴们一起打卡打卡，真希望RL能在开学前入门呐👩‍
 
-```markdown
-Syntax highlighted code block
+Ⅲ暑期课选了三门真的顶不住，还好一学分的课程已经完结了，作业也写完了✅；明天写完Python的小作业，然后13号把糖尿病遗传风险检测挑战赛的项目写成大作文交上去好了（疯狂糊弄，给个及格）
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WAYSC/Frost-diary/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Ⅳ然后就是电脑不太行了，听个课就发热，研一开学想换个Mac，委托已经受理✅（斜眼笑）
